@@ -1,0 +1,33 @@
+h1{
+    text-transform:uppercase;
+    font-size: 3rem;
+}
+
+body {
+    background-color: black;
+    color:white;
+    font-size:30px;
+}
+
+div {
+    margin-left:25%;
+    width:50%;
+    text-align:center;
+    text-transform:uppercase;
+    margin-top: 100px;
+  }
+
+  img {
+    width:100%;
+    border:5px solid white;
+  }
+
+  p {
+    text-transform:capitalize;
+    font-size: 1rem;
+}
+
+h2 {
+      text-transform:capitalize;
+      font-size: 2rem;
+  }
